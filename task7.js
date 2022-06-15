@@ -1,0 +1,11 @@
+document.write("<strong>Rules for naming JS variables</strong>");
+var abc = "$my_1stVariable";
+var xyz = "$name";
+var asd = "_name";
+var qaz = "name";
+document.write("<br><br><br>Variable names can only contain, numbers, $ and _. For example:"+abc);
+document.write("<br>Variable must begin with a letter, $ or _. For example: "+xyz);
+document.write(", "+asd);
+document.write(", "+qaz);
+document.write("<br>Variable names are case sensitive.");
+document.write("<br>Variable names should not be JS keywords.");
