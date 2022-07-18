@@ -1,3 +1,4 @@
+// 
 var num1 = Number(prompt("Enter marks obtained in Calculus"));
 var num2 = Number(prompt("Enter marks obtained in Deep Learning"));
 var num3 = Number(prompt("Enter marks obtained in Blockchain"));
